@@ -13,7 +13,7 @@ RapidMiner: Du benötigst RapidMiner, um das Projekt auszuführen. Lade es von d
 Daten: Die verwendeten Daten sind nicht im Repository enthalten, können jedoch aus öffentlich zugänglichen Quellen bezogen und in das RapidMiner-Projekt geladen werden.
 Installation und Nutzung
 
-Lade das Repository herunter oder klone es: git clone https://github.com/LKI17/dein-repository.git
+Lade das Repository herunter oder klone es: git clone https://github.com/LKI17/HoepkenRapidMiner.git
 Öffne die Datei Projektdatei.rmp in RapidMiner Studio.
 Stelle sicher, dass die benötigten Daten in RapidMiner korrekt geladen werden.
 Führe das Projekt aus, um die Textanalyse und die extrahierten Themen zu sehen.
